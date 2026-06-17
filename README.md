@@ -29,10 +29,10 @@ I like building things at the intersection of graphics, perception, robotics, an
 
 ```text
 C++                graphics systems and performance-minded tools
-Computer Graphics  rendering, geometry, and visual computing
-Deep Learning      perception models and practical training workflows
-3D Reconstruction  scene understanding and geometry recovery
-Robotics           perception, control, and embodied systems
+Computer Graphics  rendering, ray tracing, and visual computing
+Deep Learning      perception models, DiT, VAE, and practical training workflows
+3D Reconstruction  scene understanding, geometry recovery, and 3DGS
+Robotics           ROS1, wheeled robots, LiDAR, cameras, YOLO, and agents
 VLA                currently learning, experimenting, and taking notes
 ```
 
