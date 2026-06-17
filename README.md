@@ -33,12 +33,7 @@ VLA                currently learning, experimenting, and taking notes
 
 This shelf is still under construction. I will use it to collect projects that are worth showing clearly instead of listing everything at once.
 
-```text
-[ graphics ]  coming soon
-[ robotics ]  coming soon
-[ 3d recon ]  coming soon
-[ learning ]  coming soon
-```
+Coming soon.
 
 ## Contact
 
