@@ -55,4 +55,9 @@ Coming soon.
 
 `C++` | `Graphics` | `Deep Learning` | `3D Reconstruction` | `Robotics` | `VLA`
 
+<br />
+<br />
+
+<img src="assets/github-profile/cat-love-clouds-pixel-art-6139.gif" width="160" alt="Pixel cat resting in the clouds" />
+
 </div>
