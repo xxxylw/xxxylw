@@ -2,18 +2,18 @@
 
 ![Welcome to my GitHub](assets/github-profile/welcome.gif)
 
+# Qirui Huang / 黄启睿
+
+### Graduate Student at Guangzhou University
+
+I like building things at the intersection of graphics, perception, robotics, and learning systems.
+
 <p>
   <img src="assets/github-profile/pixel-art-retro-blacksmith-12600.gif" width="96" alt="Forging pixel art GIF" />
   <img src="assets/github-profile/pixel-art-retro-office-12601.gif" width="96" alt="Working pixel art GIF" />
   <img src="assets/github-profile/pixel-art-retro-vending-13602.gif" width="96" alt="Taking a break pixel art GIF" />
   <img src="assets/github-profile/pixel-art-retro-workout-13573.gif" width="96" alt="Workout pixel art GIF" />
 </p>
-
-# Qirui Huang / 黄启睿
-
-### Graduate Student at Guangzhou University
-
-I like building things at the intersection of graphics, perception, robotics, and learning systems.
 
 </div>
 
