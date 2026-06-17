@@ -9,8 +9,6 @@
   <img src="assets/github-profile/pixel-art-retro-workout-13573.gif" width="96" alt="Workout pixel art GIF" />
 </p>
 
-<p><sub>forging · working · recharging · training</sub></p>
-
 # Qirui Huang / 黄启睿
 
 ### Graduate Student at Guangzhou University
