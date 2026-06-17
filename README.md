@@ -2,7 +2,7 @@
 
 ![Welcome to my GitHub](assets/github-profile/welcome.gif)
 
-# Qirui Huang / 黄启睿
+# Qirui Huang
 
 ### Graduate Student at Guangzhou University
 
